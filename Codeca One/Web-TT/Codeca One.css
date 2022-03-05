@@ -1,0 +1,11 @@
+/* Webfont: CodecaOne-Regular */@font-face {
+    font-family: 'CodecaOne';
+    src: url('Codeca One.eot'); /* IE9 Compat Modes */
+    src: url('Codeca One.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Codeca One.woff') format('woff'), /* Modern Browsers */
+         url('Codeca One.ttf') format('truetype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
